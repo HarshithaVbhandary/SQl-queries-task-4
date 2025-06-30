@@ -1,1 +1,0 @@
-SELECT * FROM `meesho data`.meesho;
